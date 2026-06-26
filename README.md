@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Sobre Mim
+
 
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
   <p>⚔️ Projeto: Respiração da Dobragem
@@ -29,14 +29,15 @@ O meu papel: Sou o autor e programador do site oficial do projeto, a plataforma 
   
   <ul>
     <li>🚀 Atualmente a trabalhar no projeto <b>Respiração da Dobragem</b></li>
-    <li>🎯 Focado em melhorar as minhas habilidades em Front-End e Bases de Dados</li>
+    <li>🎯 Focado em melhorar as minhas habilidades em Html e css</li>
     <li>⚡ Curiosidade: Adoro designs minimalistas e estética <i>Dark</i></li>
+    <li>⚡ Outra curiosidade: Pokémon é parte da minha vida e se eu fosse um treinador seria especializado no tipo Terra 🏜️ </li>
   </ul>
 </div>
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O_TEU_USER_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O_TEU_USER_AQUI&layout=compact&theme=tokyonight"/>
+  <<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuelm11-bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelm11-bit&layout=compact&theme=tokyonight"/>
 </div>
