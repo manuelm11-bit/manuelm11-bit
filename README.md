@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Lirios.jpg" alt="Banner" width="100%" style="border-radius: 10px; max-height: 250px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="Banana.jpg" alt="Banner" width="100%" style="border-radius: 10px; max-height: 250px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   
   <br><br>
   
